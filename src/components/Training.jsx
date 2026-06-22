@@ -1,10 +1,10 @@
 import React, { useEffect } from 'react'
 import AOS from 'aos'
-import NodeCert from '../assets/achivements/nodecert.jpg'
-import PythonCert from '../assets/achivements/PythonCert.jpg'
-import DictCert from '../assets/achivements/DICTcert.jfif'
-import MysqlCert from '../assets/achivements/mysqlcert.jfif'
-import PhotoCert from '../assets/achivements/photocert.jpg'
+import NodeCert from '../assets/achivements/nodecert.webp'
+import PythonCert from '../assets/achivements/PythonCert.webp'
+import DictCert from '../assets/achivements/DICTcert.webp'
+import MysqlCert from '../assets/achivements/mysqlcert.webp'
+import PhotoCert from '../assets/achivements/photocert.webp'
 
 const trainings = [
   {

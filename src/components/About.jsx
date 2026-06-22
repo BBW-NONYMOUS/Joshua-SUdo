@@ -1,11 +1,11 @@
 import React, { useEffect } from 'react'
 import AOS from 'aos'
-import NodeJs from '../assets/images/Nodejs.png'
-import ReactJs from '../assets/images/ReactJs.png'
-import Tailwind from '../assets/images/Tailwind.png'
-import MongoDb from '../assets/images/MongoDb.png'
-import Mysql from '../assets/images/Mysql.png'
-import Html from '../assets/images/Html.png'
+import NodeJs from '../assets/images/Nodejs.webp'
+import ReactJs from '../assets/images/ReactJs.webp'
+import Tailwind from '../assets/images/Tailwind.webp'
+import MongoDb from '../assets/images/MongoDb.webp'
+import Mysql from '../assets/images/Mysql.webp'
+import Html from '../assets/images/Html.webp'
 
 export default function About() {
   const cards = [

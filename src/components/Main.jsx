@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'
 import AOS from 'aos'
-import Profile from '../assets/images/ll.jpg'
+import Profile from '../assets/images/ll.webp'
 import HeroScene from './HeroScene.jsx'
 
 
